@@ -1,5 +1,5 @@
-# PRIR-lab5
- Programowanie Równoległe lab 5
+# PRIR-lab6
+ Programowanie Równoległe lab 6
  
  
  Zdjęcie działania programu
